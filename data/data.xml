@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <student name="Абрамов Петр Сергеевич">
+    <subject name="математика" score="80"/>
+    <subject name="русский язык" score="76"/>
+    <subject name="программирование" score="100"/>
+  </student>
+  <student name="Петров Игорь Владимирович">
+    <subject name="математика" score="61"/>
+    <subject name="русский язык" score="80"/>
+    <subject name="программирование" score="78"/>
+    <subject name="литература" score="97"/>
+  </student>
+  <student name="Иванов Константин Дмитриевич">
+    <subject name="математика" score="91"/>
+    <subject name="химия" score="100"/>
+  </student>
+  <student name="Сидоров Алексей Петрович">
+    <subject name="математика" score="55"/>
+    <subject name="физика" score="60"/>
+    <subject name="история" score="70"/>
+  </student>
+  <student name="Кузнецова Анна Сергеевна">
+    <subject name="математика" score="100"/>
+    <subject name="программирование" score="95"/>
+    <subject name="литература" score="92"/>
+  </student>
+  <student name="Смирнов Дмитрий Олегович">
+    <subject name="математика" score="70"/>
+    <subject name="русский язык" score="65"/>
+    <subject name="химия" score="72"/>
+  </student>
+  <student name="Волкова Мария Андреевна">
+    <subject name="математика" score="88"/>
+    <subject name="физика" score="84"/>
+    <subject name="история" score="90"/>
+    <subject name="литература" score="86"/>
+  </student>
+  <student name="Морозов Никита Игоревич">
+    <subject name="математика" score="45"/>
+    <subject name="физика" score="50"/>
+    <subject name="история" score="40"/>
+  </student>
+  <student name="Павлов Артём Сергеевич">
+    <subject name="математика" score="76"/>
+    <subject name="программирование" score="80"/>
+    <subject name="химия" score="74"/>
+  </student>
+  <student name="Романова Ольга Дмитриевна">
+    <subject name="математика" score="62"/>
+    <subject name="литература" score="66"/>
+    <subject name="история" score="58"/>
+  </student>
+</root>
